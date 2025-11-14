@@ -1,8 +1,8 @@
 # 🚀 User API - Desafio Progic
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-brightgreen) ![Java](https://img.shields.io/badge/Java-22.0.2-blue) ![H2 Database](https://img.shields.io/badge/Database-H2-yellow) ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-brightgreen) ![Java](https://img.shields.io/badge/Java-21-blue) ![H2 Database](https://img.shields.io/badge/Database-H2-yellow) ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-orange)
 
-Uma API RESTful para gerenciamento de usuários, com autenticação básica, paginação e ordenação.
+Uma API REST para gerenciamento de usuários, com autenticação básica, paginação e ordenação.
 
 ---
 
