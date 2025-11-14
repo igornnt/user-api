@@ -53,7 +53,7 @@ Authorization: Basic <base64(usuario:senha)>
 **Exemplo cURL:**
 
 ```bash
-curl -u usuario:usuario123 "http://localhost:8080/api/users?page=0&size=10&sort=id&direction=asc"
+curl -u user:user123 "http://localhost:8080/api/users?page=0&size=10&sort=id&direction=asc"
 ```
 
 ---
@@ -67,7 +67,7 @@ GET /api/users/{id}
 **Exemplo cURL:**
 
 ```bash
-curl -u usuario:usuario123 "http://localhost:8080/api/users/1"
+curl -u user:user123 "http://localhost:8080/api/users/1"
 ```
 
 ---
