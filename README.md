@@ -161,6 +161,6 @@ Rodar testes:
 ## 💡 Boas práticas
 
 * JSON retorna campos em português: `nome`, `email`, `dataCriacao`
-* API segue princípios RESTful e idempotência para métodos GET e DELETE
+* API segue princípios REST e idempotência para métodos GET e DELETE
 * Autenticação básica para acesso aos endpoints
 * Paginação e ordenação para listagem de usuários
